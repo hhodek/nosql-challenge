@@ -10,3 +10,6 @@ This challenge was broken up into 3 parts, the first part included setting up th
 2. "NoSQL_setup_starter.ipynb" file: Contains the code to setup the database and jupyter notebook in part 1
 
 3. "NoSQL_setup_starter.ipynb" file: Contains the code for the modifications to the data, as well as the code for the exploratory analysis questions
+
+4. ## Credits
+5. * Class materials and ChatGPT
